@@ -1,0 +1,18 @@
+Title: Guidelines for Ayurvedic Formulations and Licensing
+Source: Ministry of AYUSH (Sample)
+
+1. Licensing Requirements
+Any individual or entity wishing to manufacture Ayurvedic medicines for sale must obtain a license from the State Licensing Authority. 
+The application must include a detailed list of ingredients, manufacturing processes, and proof of safety and efficacy.
+
+2. Intellectual Property (IP) in Ayurveda
+Traditional formulations listed in authoritative books (like Charaka Samhita) are considered public domain and cannot be patented in their traditional form. 
+However, novel extraction methods or novel combinations that show synergistic effects and are not merely an admixture can be subject to patent applications, provided they meet the criteria of novelty and non-obviousness.
+
+3. Labeling and Packaging
+All Ayurvedic products must clearly display the ingredients on the label in the exact proportion used. 
+The label must also contain the phrase "Ayurvedic Medicine" and include the manufacturing license number, batch number, date of manufacture, and expiry date. 
+Therapeutic claims must not violate the Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954.
+
+4. Heavy Metal Regulations
+Ayurvedic formulations containing Bhasmas (metallic preparations) must adhere to strict limits for heavy metals such as Lead, Mercury, Arsenic, and Cadmium as prescribed by the Pharmacopoeia Commission for Indian Medicine & Homoeopathy (PCIM&H). Certificates of Analysis (CoA) must be maintained for each batch.
