@@ -5,4 +5,5 @@ langchain-google-genai>=0.0.9
 sentence-transformers>=2.2.2
 faiss-cpu>=1.7.4
 python-dotenv>=1.0.0
+openai>=1.0.0
 pypdf>=4.0.0
